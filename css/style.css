@@ -6290,6 +6290,7 @@ textarea.textarea-lg {
 
 .thumbnail-classic-figure img {
 	width: 100%;
+	height: 260px;
 	transition: all .3s ease;
 }
 

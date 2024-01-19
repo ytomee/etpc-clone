@@ -114,7 +114,6 @@ h1, h2, h3, h4, h5, h6, [class*='heading-'] {
 	font-weight: 500;
 	font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	color: #151515;
-	text-transform: capitalize;
 	letter-spacing: .024em;
 	word-spacing: .05em;
 }
@@ -5743,7 +5742,7 @@ textarea.textarea-lg {
 
 .quote-modern-cite {
 	font-weight: 400;
-	letter-spacing: .075em;
+	letter-spacing: .045em;
 }
 
 .quote-modern-status {
@@ -16826,7 +16825,7 @@ h1 + .tabs-line {
 		border: 1px solid #e1e1e1;
 	}
 	.tabs-horizontal.tabs-line .nav-tabs {
-		justify-content: space-between;
+		justify-content: space-evenly;
 		border-bottom: 3px solid #e1e1e1;
 	}
 	.tabs-horizontal.tabs-line .nav-item {

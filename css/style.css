@@ -347,6 +347,10 @@ a[href*='tel'], a[href*='mailto'] {
 	}
 }
 
+.white-adapted {
+	color: #fafafa!important;
+}
+
 .gallery-title,
 .link-instafeed-3 {
 	display: inline-block;
@@ -6290,7 +6294,7 @@ textarea.textarea-lg {
 
 .thumbnail-classic-figure img {
 	width: 100%;
-	height: 260px;
+	height: 280px;
 	transition: all .3s ease;
 }
 
